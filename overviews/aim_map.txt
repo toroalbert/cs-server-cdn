@@ -1,0 +1,17 @@
+// overview description file for aim_map.bsp
+
+global 
+{
+ZOOM	3.71
+ORIGIN	-108.63 -1348.17 -625.00
+ROTATED	0
+}
+
+layer 
+{
+IMAGE	"overviews/aim_map.tga"
+HEIGHT	-625.00
+}
+
+// done by [FAW]LAffran 12-02-2003
+// visit us @ http://www.cs4us.de
